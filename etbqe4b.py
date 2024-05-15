@@ -54,6 +54,8 @@ for litera in lancuch:
 
 print(ilość_wystąpień)
 
+#śmieszna zmiana nananana na na
+
 
 
 
